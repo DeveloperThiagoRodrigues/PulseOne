@@ -1,8 +1,14 @@
 # PulseOne
 
+<<<<<<< HEAD
 ![PulseOne] 
 
 <img src="apresentacao.png">
+=======
+![PulseOne]![PulseOne]
+
+(img/apresentacao.png)
+>>>>>>> dbfd7fed68f1e78f3d9a7613591847b3db4bfd0a
 
 ## 🚀 Sobre o Projeto
 PulseOne é uma vitrine interativa de produtos de tecnologia de ponta, criada para apresentar gadgets como **Apple Watch Series 10**, **AirPods Max** e **Apple Vision Pro** de forma moderna e envolvente.  
