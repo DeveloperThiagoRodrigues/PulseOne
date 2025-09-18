@@ -1,0 +1,42 @@
+# PulseOne
+
+![PulseOne](./img/Captura%20de%20tela%202025-09-18%20192239.png)
+
+## 🚀 Sobre o Projeto
+PulseOne é uma vitrine interativa de produtos de tecnologia de ponta, criada para apresentar gadgets como **Apple Watch Series 10**, **AirPods Max** e **Apple Vision Pro** de forma moderna e envolvente.  
+O projeto combina **design futurista**, animações suaves e interatividade, proporcionando uma experiência visual imersiva para os usuários explorarem produtos tecnológicos.
+
+---
+
+## 🖥️ Tecnologias Utilizadas
+- **HTML5** – Estrutura do site
+- **CSS3** – Estilização avançada, animações e efeitos de hover
+- **JavaScript** – Controle do carrossel, animações dinâmicas e navegação entre produtos
+- **Google Fonts** – Montserrat e Orbitron para tipografia moderna
+- **SVG** – Ícones de setas do carrossel
+
+---
+
+## ✨ Funcionalidades
+- **Carrossel de produtos** com navegação automática e manual
+- **Indicadores de posição** (dots e números)
+- **Botões de navegação** com efeito hover
+- **Animações suaves** de entrada para imagens, textos e botões
+- **Design responsivo** e moderno, inspirado em layouts tecnológicos
+- **Círculos animados** de fundo criando efeito futurista
+
+---
+
+## 🎨 Layout
+O layout do PulseOne é inspirado em tendências modernas de tecnologia:
+- Fundo com gradiente e círculos animados
+- Destaque visual para imagens de produtos com sombras e transições
+- Conteúdo textual animado, incluindo tags, nomes e descrições dos produtos
+- Botões chamativos com hover interativo
+
+---
+
+## ⚡ Como Rodar o Projeto
+1. Clone este repositório:
+```bash
+git clone https://github.com/DeveloperThiagoRodrigues/PulseOne
